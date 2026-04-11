@@ -3,7 +3,7 @@
 Soy estudiante de **Ingeniería Informática (mención Computación)** en la **Universidad de Sevilla**.  
 Me centro en **Inteligencia Artificial**, visión por computador y automatización de procesos.
 
-- 🎓 Último tramo de carrera: me quedan 7 asignaturas, prácticas y TFG.
+- 🎓 Último tramo de carrera: me quedan 3 asignaturas y TFG.
 - 🤖 Interesado en **IA aplicada** (clasificación de imágenes, modelos de predicción, LLMs).
 - 💼 Buscando **prácticas remuneradas** (Sevilla / híbrido / remoto) donde pueda desarrollar también mi **TFG**.
 - 🧩 Me gusta trabajar con datos reales y proyectos con impacto en negocio.
