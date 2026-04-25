@@ -3,12 +3,16 @@
 Soy estudiante de **Ingeniería Informática (mención Computación)** en la **Universidad de Sevilla**.  
 Me centro en **Inteligencia Artificial**, visión por computador y automatización de procesos.
 
-- 🎓 Último tramo de carrera: me quedan 3 asignaturas y TFG.
+- 🎓 Último tramo de carrera: me quedan 3 asignaturas y el TFG.
+- 💼 Actualmente en prácticas en **NTT Data**.
 - 🤖 Interesado en **IA aplicada** (clasificación de imágenes, modelos de predicción, LLMs).
-- 💼 Buscando **prácticas remuneradas** (Sevilla / híbrido / remoto) donde pueda desarrollar también mi **TFG**.
 - 🧩 Me gusta trabajar con datos reales y proyectos con impacto en negocio.
 
 ## 🚀 Proyectos destacados
+
+- **pdf2md**
+  Herramienta de escritorio que convierte PDFs a Markdown autocontenido optimizado para LLMs. Extrae texto, tablas e imágenes (comprimidas en base64) página a página, manteniendo el contexto visual del documento. Distribuido como `.exe` standalone sin dependencias.
+  Repo: [pdf2md](https://github.com/adrmurbau/pdf2md)
 
 - **AIA Final Project – InceptionV3**  
   Clasificación de imágenes de flores usando **InceptionV3** con fine-tuning, más ejercicios de ML clásico (árboles y random forests).  
@@ -28,7 +32,7 @@ Me centro en **Inteligencia Artificial**, visión por computador y automatizaci�
 - **IA / ML:** TensorFlow / Keras, scikit-learn, visión por computador básica.
 - **Backend / Datos:** Odoo, PostgreSQL, APIs REST sencillas.
 - **Frontend:** HTML/CSS, React (nivel intermedio).
-- **Herramientas:** Git, Linux, Jupyter.
+- **Herramientas:** Git, Linux, Jupyter, PyInstaller, Tkinter, pymupdf, Pillow.
 
 ## 📬 Contacto
 
